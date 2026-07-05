@@ -1,7 +1,7 @@
 ## HR Employee Attrition & Performance Analytics
 
 **Tools:** Excel | SQL (Window Functions, CTEs) | Python (Pandas, Seaborn, Scipy) | Tableau Public
-**Dataset:** IBM HR Analytics — 1,470 employees, 35 variables (Kaggle)
+**Dataset:** IBM HR Analytics - 1,470 employees, 35 variables (Kaggle)
 
 ## Business Problem
 Identify which factors statistically drive employee attrition
