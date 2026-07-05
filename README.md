@@ -17,4 +17,4 @@ and provide HR with actionable retention recommendations.
 [View Tableau Dashboard](https://public.tableau.com/app/profile/himani.sharma8179/vizzes)
 
 ## Dashboard Preview
-![HR Dashboard](outputs/dashboard_screenshot.png)
+![HR Dashboard](Outputs/dashboard_screenshot.png)
